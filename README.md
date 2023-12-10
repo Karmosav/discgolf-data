@@ -1,1 +1,2 @@
 # discgolf-data
+To run the code you first have to open golf.ipynb and then you can press run all in jupiter kernel. It is possible that you have to install few libraries to get the code running properly for example folium and geopandas (!pip install <library>).
