@@ -1,6 +1,8 @@
 # discgolf-data
 Authors: 
+
 Karmo Saviauk
+
 Malin Püttsepp
 
 Objective is to analyze disc colf players base growth in Estonia and the correlation between players ranking and number of training courses and also between ranking and competition played.
