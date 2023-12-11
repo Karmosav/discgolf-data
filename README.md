@@ -1,4 +1,4 @@
-# discgolf-data
+
 Authors: 
 
 Karmo Saviauk
